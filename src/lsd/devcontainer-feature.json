@@ -1,0 +1,12 @@
+{
+    "name": "Install lsd",
+    "id": "lsd",
+    "version": "1.0.0",
+    "description": "Install lsd.",
+    "options": {
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils",
+        "ghcr.io/devcontainers/features/rust"
+    ]
+}

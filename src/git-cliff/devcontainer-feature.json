@@ -1,0 +1,12 @@
+{
+    "name": "Install git-cliff",
+    "id": "git-cliff",
+    "version": "1.0.0",
+    "description": "Install git-cliff.",
+    "options": {
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils",
+        "ghcr.io/devcontainers/features/rust"
+    ]
+}

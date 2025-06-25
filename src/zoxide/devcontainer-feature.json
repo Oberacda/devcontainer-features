@@ -1,0 +1,12 @@
+{
+    "name": "Install zoxide",
+    "id": "zoxide",
+    "version": "1.0.0",
+    "description": "Install zoxide.",
+    "options": {
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils",
+        "ghcr.io/devcontainers/features/rust"
+    ]
+}
