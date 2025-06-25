@@ -1,0 +1,11 @@
+{
+    "name": "Install colcon mixins.",
+    "id": "colcon-mixin",
+    "version": "1.0.0",
+    "description": "Install colcon mixins.",
+    "options": {
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils",
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Install git-delta",
+    "id": "git-delta",
+    "version": "1.0.0",
+    "description": "Install git-delta",
+    "options": {
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils",
+        "ghcr.io/devcontainers/features/rust"
+    ]
+}

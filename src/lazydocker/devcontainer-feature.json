@@ -1,0 +1,17 @@
+{
+    "name": "Install Lazydocker",
+    "id": "lazydocker",
+    "version": "1.0.0",
+    "description": "Install lazydocker.",
+    "options": {
+        "version": {
+            "type": "string",
+            "default": "latest",
+            "description": "Version to install!"
+        }
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils",
+        "ghcr.io/devcontainers/features/go"
+    ]
+}
